@@ -6,8 +6,8 @@
   ### 👩‍💻 Software Engineering Undergraduate | Backend & Mobile Developer
 
   <p align="center">
-    Backend Developer with industry internship experience at <b>SLT Mobitel</b>.<br/>
-    Passionate about building scalable REST APIs, cloud databases, and intelligent mobile solutions.
+    Backend & Mobile Developer with industry internship experience at <b>SLT Mobitel</b> and active government portal freelancing.<br/>
+    Passionate about building scalable REST APIs, intelligent mobile solutions, and reliable web platforms.
   </p>
 </div>
 
@@ -21,10 +21,11 @@
       <br/>
       <ul>
         <li>🎓 IT Undergraduate at <b>Horizon Campus</b> (Final Year)</li>
-        <li>💼 Former <b>Backend Developer Intern at SLT Mobitel</b> (Python & MongoDB)</li>
+        <li>💼 Former <b>Backend Developer Intern @ SLT Mobitel</b> (Python & MongoDB)</li>
+        <li>🌐 <b>Freelance Web Developer</b> maintaining the official Uva Provincial ECDA Portal (<a href="https://uvaecda.up.gov.lk/" target="_blank">uvaecda.up.gov.lk</a>)</li>
         <li>🚀 Built <b>MindCare App</b> (AI-powered Mental Wellness with Flutter & Firebase)</li>
         <li>💡 Strong experience in <b>FastAPI, REST APIs, Cloud Firestore, and Machine Learning</b></li>
-        <li>💬 Ask me about <b>Python, MongoDB, Flutter, FastAPI, Git</b></li>
+        <li>💬 Ask me about <b>Python, Flutter, Firebase, MongoDB, WordPress, Git</b></li>
         <li>📫 Reach me at: <a href="mailto:nethmidilunika321@gmail.com"><b>nethmidilunika321@gmail.com</b></a></li>
       </ul>
       <br/>
@@ -52,6 +53,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </div>
